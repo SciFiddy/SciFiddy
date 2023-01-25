@@ -1,0 +1,48 @@
+[Theme]
+DisplayName=Solarized Dark
+
+[Control Panel\Desktop]
+PicturePosition=4
+
+[VisualStyles]
+Path=
+ColorStyle=NormalColor
+Size=NormalSize
+VisualStyleVersion=10
+HighContrast=3
+
+[MasterThemeSelector]
+MTSM=RJSPBS
+
+[Control Panel\Colors]
+ActiveBorder=181 137 0
+ActiveTitle=7 54 66
+AppWorkspace=0 26 32
+Background=0 43 54
+ButtonAlternateFace=192 192 192
+ButtonDkShadow=255 255 255
+ButtonFace=7 54 66
+ButtonHilight=147 161 161
+ButtonLight=253 246 227
+ButtonShadow=101 123 131
+ButtonText=147 161 161
+GradientActiveTitle=211 54 130
+GradientInactiveTitle=133 153 0
+GrayText=88 110 117
+Hilight=238 232 213
+HilightText=88 110 117
+HotTrackingColor=38 139 210
+InactiveBorder=133 153 0
+InactiveTitle=0 26 32
+InactiveTitleText=88 110 117
+InfoText=253 246 227
+InfoWindow=0 26 32
+Menu=0 43 54
+MenuBar=0 26 32
+MenuHilight=211 54 130
+MenuText=131 148 150
+Scrollbar=18 18 18
+TitleText=147 161 161
+Window=0 43 54
+WindowFrame=32 32 32
+WindowText=131 148 150
