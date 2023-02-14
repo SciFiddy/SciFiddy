@@ -6,7 +6,6 @@
 
 
 ## Ubuntu 22
-
 * https://askubuntu.com/questions/159575/how-do-i-make-java-default-to-a-manually-installed-jre-jdk/159585#159585
 
 
